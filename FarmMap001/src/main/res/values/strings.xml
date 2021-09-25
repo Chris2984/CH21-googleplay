@@ -1,0 +1,15 @@
+<resources>
+<!--0823 2~10-->
+    <string name="q0501_menu_log01">登入google帳號</string>
+    <string name="title_text">登入google帳號，需要權限許可</string>
+    <string name="OptionalAction">加註</string>
+    <string name="signed_out">登出</string>
+    <string name="disconnect">中斷連結</string>
+    <string name="desc_google_icon">頭像</string>
+    <string name="signed_in_fmt">Google Account: %s</string>
+    <string name="q0501_dialog_t001">請問你確定</string>
+    <string name="q0501_dialog_positive">選擇下載</string>
+    <string name="q0501_dialog_negative">不要下載</string>
+
+    <!--0823    -->
+</resources>
